@@ -1,4 +1,5 @@
 "# Computer-Management-System" 
+Built with C# and .Net Framework
 It is a simple software built for the management of an Internet cafe
 The software blocks all kind of pc usage without an account to be logged in with
 The software monitors total time usage and deletes all user data after logout
