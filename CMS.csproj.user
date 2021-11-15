@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Muneeb Shafi\Desktop\Computer User Management System\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AddHrs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adduser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ChangeAdminPass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userlogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UserTimer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewallusers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

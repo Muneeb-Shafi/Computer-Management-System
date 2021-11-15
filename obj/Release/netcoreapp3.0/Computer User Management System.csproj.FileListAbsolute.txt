@@ -1,0 +1,56 @@
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.exe
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.deps.json
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.runtimeconfig.json
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.runtimeconfig.dev.json
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Computer User Management System.pdb
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\BoDi.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Cucumber.Messages.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Gherkin.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\K4os.Compression.LZ4.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\K4os.Hash.xxHash.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\MySql.Data.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\ZstdNet.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\TechTalk.SpecFlow.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\SpecFlow.Internal.Json.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\System.Security.AccessControl.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\System.Security.Permissions.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\System.Security.Principal.Windows.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+C:\Users\Phant\source\repos\Computer User Management System\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.csproj.AssemblyReference.cache
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.AddHrs.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.adduser.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.adminlogin.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.ChangeAdminPass.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.EditUsers.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.Locked.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.AdminPortal.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.Properties.Resources.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.userlogin.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.UserTimer.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer_User_Management_System.viewallusers.resources
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.csproj.GenerateResource.cache
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.AssemblyInfoInputs.cache
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.AssemblyInfo.cs
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.csproj.CoreCompileInputs.cache
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.csproj.CopyComplete
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.dll
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.pdb
+C:\Users\Phant\source\repos\Computer User Management System\obj\Release\netcoreapp3.0\Computer User Management System.genruntimeconfig.cache
